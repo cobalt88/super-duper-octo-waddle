@@ -1,0 +1,313 @@
+{
+  "recipes": [
+    {
+      "title": "Apple Pie",
+      "ingredients": [
+        {
+          "name": "Apple Pie Filling",
+          "quantity": "",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Pie Crust",
+          "quantity": "",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Egg Wash",
+          "quantity": "",
+          "additionalInfo": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": "",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "",
+          "ingredients": "",
+          "details": ""
+        }
+      ],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Pizza Dough",
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": "",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Water",
+          "quantity": "",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Sugar",
+          "quantity": "",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Yeast",
+          "quantity": "",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": "",
+          "additionalInfo": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": "",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "",
+          "ingredients": "",
+          "details": ""
+        }
+      ],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Baked Chicken Breast",
+      "ingredients": [
+        {
+          "name": "Chicken Breast",
+          "quantity": "1 lb",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Italian Herb Blend",
+          "quantity": "1 Tbsp",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": "2 Tbsp",
+          "additionalInfo": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1, season chicken",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "2, Bake",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "3, Rest and Serve",
+          "ingredients": "",
+          "details": ""
+        }
+      ],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Baked Ziti",
+      "ingredients": [
+        {
+          "name": "Pasta",
+          "quantity": "1 lb",
+          "additionalInfo": "Ziti, Pene, Rigatoni, or Elbows"
+        },
+        {
+          "name": "Sauce",
+          "quantity": "1 cup",
+          "additionalInfo": "more sauce can be added if you prefer. Some like more some like less."
+        },
+        {
+          "name": "Ricotta Cheese",
+          "quantity": "1/2 cup",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Mozzarella Cheese",
+          "quantity": "1/2 lb",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Parmesan Cheese",
+          "quantity": "1/4 cup shredded",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Italian Herb Blend",
+          "quantity": "1 Tbsp",
+          "additionalInfo": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1, Prep",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "2, Cook Pasta",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "3, Mix",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "4, Bake",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "5, Top Off and Serve",
+          "ingredients": "",
+          "details": ""
+        }
+      ],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Cheese Pizza",
+      "ingredients": [
+        {
+          "name": "Pizza Dough",
+          "quantity": "1 lb",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Sauce",
+          "quantity": "1 cup",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Cheese",
+          "quantity": "1/2 lb",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Herbs and Seasoning",
+          "quantity": "1 tbsp",
+          "additionalInfo": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1, stretch the dough",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "2, apply sauce",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "3, apply cheese and herbs",
+          "ingredients": "",
+          "details": ""
+        },
+        {
+          "step": "4, bake",
+          "ingredients": "",
+          "details": ""
+        }
+      ],
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Chicken Nuggets",
+      "ingredients": [
+        {
+          "name": "Chicken Thigh",
+          "quantity": "1 lb",
+          "additionalInfo": ""
+        },
+        {
+          "name": "Flour",
+          "quantity": "1 Cup",
+          "additionalInfo": "Standard white flour can be used, avoid coarse grained flours like whole wheat. This can be substituted with corn starch if needed."
+        },
+        {
+          "name": "Bread Crumbs",
+          "quantity": "1 Cup",
+          "additionalInfo": "Seasoning can be applied to the breading if desired, this can also be substituted with plenko if desired."
+        },
+        {
+          "name": "Egg",
+          "quantity": "3",
+          "additionalInfo": "Large or Extra Large eggs are best for this. If you are using smaller eggs you may need to add more."
+        },
+        {
+          "name": "Milk",
+          "quantity": "1/2 Cup",
+          "additionalInfo": "Can be substituted with water, and it does not matter if you use whole or skim milk"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1, Prep Chicken",
+          "ingredients": "Chicken",
+          "details": "Take your chicken thighs, debone and remove skin if this is not already done, and cut into bite sized chunks no larger than 1 inch, 1/2 to 3/4 inch is ideal."
+        },
+        {
+          "step": "2, Prep Egg Wash",
+          "ingredients": "egg, milk",
+          "details": "Combine the egg and milk into a large mixing bowl and whisk together."
+        },
+        {
+          "step": "3, Prep Breading",
+          "ingredients": "Flour, Breadcrumbs",
+          "details": "Place the flour in its own bowl to the left of the egg wash and place the bread crumbs in a separate bowl to the right of the egg wash. To the right of the bread crumbs should be an empty baking sheet or plate, "
+        },
+        {
+          "step": "4, Bread The Chicken",
+          "ingredients": "all",
+          "details": "Start by taking the cubed chicken and placing it in the egg wash, only a small handful at a time, 5 pieces or less to start. Once the chicken is fully coated in the egg, place it in the bowl of flour and move the chicken around until it is fully coated. Then place the chicken back into the egg wash for a second coating of egg, and finally move the chicken to the bowl of bread crumbs for the final coating. Once they have been fully coated place the breaded nuggets onto the baking sheet in such a way as they do not touch one another."
+        },
+        {
+          "step": "5, Repeat",
+          "ingredients": "",
+          "details": "Repeat step 4 until all chicken is processed"
+        },
+        {
+          "step": "6, Bake",
+          "ingredients": "Chicken Nuggets",
+          "details": "Bake the nuggets at 375 for a minimum of 20 minutes. If your nuggets are larger and thicker you will need to bake them longer. Always check to make the the internal temp of the largest nugget you can see is at 160 degrees or higher before calling them done. Alternatively you can cut one in half to see if any pink or uncooked chicken remains. "
+        },
+        {
+          "step": "7, Serve and Enjoy!",
+          "ingredients": "",
+          "details": "Once the nuggets have finished baking, allow them to settle on the pan for 3-5 minutes before plating and serving them with whatever condiments or sauces you prefer."
+        }
+      ],
+      "image": "../images/chicken_nuggets.jpeg",
+      "url": ""
+    }
+  ]
+}
